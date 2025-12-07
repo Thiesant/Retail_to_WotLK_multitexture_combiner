@@ -12,7 +12,6 @@ Usage:
     python3 Multi_Particle_Texture_Combiner.py <mask.blp/png> <color.blp/png> <output.png> --color2 <color2> [options]
     
 Options:
-    --preview        Also generate a preview strip
     --grid N            Output atlas grid NxN (default: 8, giving 64 frames)
     --cell-size N       Size of each cell in pixels (default: 256)
     --mask-grid N       If mask is 1x1 or 2x2 etc pattern (default 0, try to autodetect)
